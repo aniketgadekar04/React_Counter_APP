@@ -1,6 +1,6 @@
 function App() {
   return (
-   <div>
+   <div className="w-[100vw] h-[100vh] flex justify-center items-center flex-col bg-[#344151] gap-10">
     <div>Increment && Decrement</div>
     <div>
       <button>
